@@ -25,8 +25,6 @@ $VERSION = '0.1.3';
 # Identities of Telegram gateways
 my @telex_nicks = (
     '*!mx@irc.hacklab.fi',
-    '*!mx@matrix.hacklab.fi',
-    '*!mx@morpheus.hacklab.fi',
     );
 
 sub find_mask {
